@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f18a5128-4784-4264-98e9-733934df8899" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/tgkt/toliver/constant/ResponseConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/tgkt/toliver/exception/BaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/tgkt/toliver/properties/JWTProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/tgkt/toliver/result/HttpResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/tgkt/toliver/util/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/tgkt/toliver/util/JWTUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/tgkt/toliver/entity/AuthorizeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/tgkt/toliver/entity/SystemUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/tgkt/toliver/entity/sysuser/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/tgkt/toliver/entity/sysuser/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/tgkt/toliver/request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/tgkt/toliver/vo/AuthorizeVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/config/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/config/SpringDocConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/config/WebConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/controller/admin/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/dao/AuthorizeInfoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/dao/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/filter/JWTAuthorizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/handler/DataExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/handler/RequestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/service/impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Toliver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/database-design.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/database-design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pojo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/server/ToliverServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/tgkt/toliver/ToliverServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/test/java/tgkt/toliver/server/ToliverServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/test/java/tgkt/toliver/ToliverServerApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\Program Files\Apache Software Foundation\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2g3TaB0Em1SuGlVRPrFf3HZeKh2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "JavaSE-17",
+    "last_opened_file_path": "E:/Projects/Toliver/common",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3034483",
+    "settings.editor.selected.configurable": "spring.boot",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tgkt.toliver.util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ToliverServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="toliver-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tgkt.toliver.ToliverServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f18a5128-4784-4264-98e9-733934df8899" name="Changes" comment="" />
+      <created>1714925322694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714925322694</updated>
+      <workItem from="1714925323715" duration="7680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
