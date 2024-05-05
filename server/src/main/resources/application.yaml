@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: toliver-server
+  datasource:
+    url: jdbc:mysql://localhost:3306/toliver?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  security:
+    jwt:
+      expires: 1
+      key: "toliver_key"
+
+springdoc:
+  swagger-ui:
+    path: /dev/api-docs
+    enabled: true
+    csrf:
+      enabled: true
+
+  api-docs:
+    enabled: true
+
+  packages-to-scan: tgkt.toliver.server.controller
+
+server:
+  port: 8101

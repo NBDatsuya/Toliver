@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Toliver.iml" filepath="$PROJECT_DIR$/Toliver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/front-admin.iml" filepath="$PROJECT_DIR$/front-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/front-micro-program.iml" filepath="$PROJECT_DIR$/front-micro-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front-admin/front-admin.iml" filepath="$PROJECT_DIR$/front-admin/front-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front-micro-program/front-micro-program.iml" filepath="$PROJECT_DIR$/front-micro-program/front-micro-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/toliver-common.iml" filepath="$PROJECT_DIR$/common/toliver-common.iml" />
     </modules>
   </component>
 </project>
